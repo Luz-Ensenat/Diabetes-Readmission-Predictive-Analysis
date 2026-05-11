@@ -83,7 +83,7 @@ Diabetes_Readmission_Predictive_Analysis/
 │
 ├── notebooks/
 │   ├── Diabetes_Readmission_Predictive_Analysis_English.ipynb
-│   └── Analisis_Predictivo_Recaida_Diabetes_Español.ipynb
+│   └── Diabetes_Readmission_Predictive_Analysis_Español.ipynb
 │
 ├── README.md
 └── requirements.txt
